@@ -1,4 +1,3 @@
-import React from 'react';
 import { logo } from '../assets';
 
 const Hero = () => {
@@ -17,11 +16,12 @@ const Hero = () => {
         Summarize articles with <br
           className="max-md:hidden" />
         <span className="trust_gradient">OpenAI GPT-4</span>
-        <h2 className="desc">
+        </h1>
+        <h2 className='desc'>
           Simplify your reading with Summize, an open source article summarizer that transforms lengthy articles into clear and concise 
           summaries
         </h2>
-      </h1>
+      
     </header>
   )
 }
