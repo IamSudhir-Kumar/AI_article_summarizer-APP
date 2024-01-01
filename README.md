@@ -1,1 +1,1 @@
-https://youtube-clone-zeta-three.vercel.app/
+https://article-summarizergpt-4.netlify.app/
